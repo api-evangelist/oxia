@@ -1,0 +1,13 @@
+name: Oxia
+description: A scalable metadata store and coordination service designed for distributed
+  systems, providing strong consistency guarantees and high availability.
+url: https://github.com/streamnative/oxia
+tags:
+- Metadata Store
+- Coordination Service
+- Distributed Systems
+- Strong Consistency
+created: '2025'
+modified: '2025'
+apis: []
+common: []
