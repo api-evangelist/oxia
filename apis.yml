@@ -7,9 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Metadata Store
   - Coordination Service
   - Distributed Systems
+  - Metadata Store
   - Strong Consistency
 url: >-
   https://raw.githubusercontent.com/api-evangelist/oxia/refs/heads/main/apis.yml
@@ -24,8 +24,8 @@ apis:
       with strong consistency guarantees.
     humanURL: https://github.com/streamnative/oxia
     tags:
-      - Metadata Store
       - Distributed Systems
+      - Metadata Store
     properties:
       - type: Documentation
         url: https://github.com/streamnative/oxia
