@@ -29,12 +29,12 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/streamnative/oxia
-      - type: GitHub Organization
+      - type: GitHubOrganization
         url: https://github.com/streamnative/oxia
 common:
   - type: Website
     url: https://github.com/streamnative/oxia
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/streamnative/oxia
 maintainers:
   - FN: Kin Lane
